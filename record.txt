@@ -1,0 +1,48 @@
+./data/classified_images\actinic keratosis\ISIC_0025780.jpg  TrueLabel:actinic keratosis  PredictLabel:squamous cell carcinoma
+./data/classified_images\actinic keratosis\ISIC_0025780_flipped.jpg  TrueLabel:actinic keratosis  PredictLabel:squamous cell carcinoma
+./data/classified_images\actinic keratosis\ISIC_0027254.jpg  TrueLabel:actinic keratosis  PredictLabel:pigmented benign keratosis
+./data/classified_images\actinic keratosis\ISIC_0030344.jpg  TrueLabel:actinic keratosis  PredictLabel:basal cell carcinoma
+./data/classified_images\actinic keratosis\ISIC_0030344_flipped.jpg  TrueLabel:actinic keratosis  PredictLabel:basal cell carcinoma
+./data/classified_images\actinic keratosis\ISIC_0060509_flipped.jpg  TrueLabel:actinic keratosis  PredictLabel:basal cell carcinoma
+./data/classified_images\actinic keratosis\ISIC_0064587_flipped.jpg  TrueLabel:actinic keratosis  PredictLabel:basal cell carcinoma
+./data/classified_images\actinic keratosis\ISIC_0071339.jpg  TrueLabel:actinic keratosis  PredictLabel:seborrheic keratosis
+./data/classified_images\basal cell carcinoma\ISIC_0031614.jpg  TrueLabel:basal cell carcinoma  PredictLabel:pigmented benign keratosis
+./data/classified_images\basal cell carcinoma\ISIC_0053672.jpg  TrueLabel:basal cell carcinoma  PredictLabel:solar lentigo
+./data/classified_images\basal cell carcinoma\ISIC_0058842.jpg  TrueLabel:basal cell carcinoma  PredictLabel:squamous cell carcinoma
+./data/classified_images\basal cell carcinoma\ISIC_0063532.jpg  TrueLabel:basal cell carcinoma  PredictLabel:nevus
+./data/classified_images\basal cell carcinoma\ISIC_0070975.jpg  TrueLabel:basal cell carcinoma  PredictLabel:squamous cell carcinoma
+./data/classified_images\basal cell carcinoma\ISIC_0072590.jpg  TrueLabel:basal cell carcinoma  PredictLabel:seborrheic keratosis
+./data/classified_images\melanoma\ISIC_0010591.jpg  TrueLabel:melanoma  PredictLabel:nevus
+./data/classified_images\melanoma\ISIC_0013678.jpg  TrueLabel:melanoma  PredictLabel:seborrheic keratosis
+./data/classified_images\melanoma\ISIC_0027126.jpg  TrueLabel:melanoma  PredictLabel:pigmented benign keratosis
+./data/classified_images\melanoma\ISIC_0028148.jpg  TrueLabel:melanoma  PredictLabel:nevus
+./data/classified_images\melanoma\ISIC_0029089.jpg  TrueLabel:melanoma  PredictLabel:squamous cell carcinoma
+./data/classified_images\melanoma\ISIC_0029453.jpg  TrueLabel:melanoma  PredictLabel:nevus
+./data/classified_images\melanoma\ISIC_0030134.jpg  TrueLabel:melanoma  PredictLabel:nevus
+./data/classified_images\melanoma\ISIC_0031203.jpg  TrueLabel:melanoma  PredictLabel:pigmented benign keratosis
+./data/classified_images\melanoma\ISIC_0032466.jpg  TrueLabel:melanoma  PredictLabel:nevus
+./data/classified_images\melanoma\ISIC_0034140.jpg  TrueLabel:melanoma  PredictLabel:basal cell carcinoma
+./data/classified_images\melanoma\ISIC_0055287.jpg  TrueLabel:melanoma  PredictLabel:vascular lesion
+./data/classified_images\melanoma\ISIC_0055289.jpg  TrueLabel:melanoma  PredictLabel:nevus
+./data/classified_images\melanoma\ISIC_0058368.jpg  TrueLabel:melanoma  PredictLabel:seborrheic keratosis
+./data/classified_images\melanoma\ISIC_0061231.jpg  TrueLabel:melanoma  PredictLabel:nevus
+./data/classified_images\melanoma\ISIC_0061265.jpg  TrueLabel:melanoma  PredictLabel:nevus
+./data/classified_images\melanoma\ISIC_0064062.jpg  TrueLabel:melanoma  PredictLabel:nevus
+./data/classified_images\melanoma\ISIC_0065477.jpg  TrueLabel:melanoma  PredictLabel:nevus
+./data/classified_images\melanoma\ISIC_0067008.jpg  TrueLabel:melanoma  PredictLabel:nevus
+./data/classified_images\melanoma\ISIC_0071931.jpg  TrueLabel:melanoma  PredictLabel:seborrheic keratosis
+./data/classified_images\nevus\ISIC_0000034.jpg  TrueLabel:nevus  PredictLabel:melanoma
+./data/classified_images\nevus\ISIC_0013488.jpg  TrueLabel:nevus  PredictLabel:seborrheic keratosis
+./data/classified_images\nevus\ISIC_0015390.jpg  TrueLabel:nevus  PredictLabel:seborrheic keratosis
+./data/classified_images\nevus\ISIC_0024352.jpg  TrueLabel:nevus  PredictLabel:melanoma
+./data/classified_images\nevus\ISIC_0027086.jpg  TrueLabel:nevus  PredictLabel:pigmented benign keratosis
+./data/classified_images\nevus\ISIC_0031710.jpg  TrueLabel:nevus  PredictLabel:melanoma
+./data/classified_images\nevus\ISIC_0032278.jpg  TrueLabel:nevus  PredictLabel:melanoma
+./data/classified_images\nevus\ISIC_0032989.jpg  TrueLabel:nevus  PredictLabel:melanoma
+./data/classified_images\nevus\ISIC_0053574.jpg  TrueLabel:nevus  PredictLabel:basal cell carcinoma
+./data/classified_images\nevus\ISIC_0056165.jpg  TrueLabel:nevus  PredictLabel:dermatofibroma
+./data/classified_images\nevus\ISIC_0061616.jpg  TrueLabel:nevus  PredictLabel:basal cell carcinoma
+./data/classified_images\nevus\ISIC_0064382.jpg  TrueLabel:nevus  PredictLabel:melanoma
+./data/classified_images\nevus\ISIC_0069450.jpg  TrueLabel:nevus  PredictLabel:seborrheic keratosis
+./data/classified_images\nevus\ISIC_0071498.jpg  TrueLabel:nevus  PredictLabel:melanoma
+./data/classified_images\nevus\ISIC_0072210.jpg  TrueLabel:nevus  PredictLabel:melanoma
